@@ -1,0 +1,57 @@
+*{
+    margin: 10px 0;
+
+}
+body{
+    background-color:rgb(12, 112, 226);
+}
+.container{
+    margin-left: 36%;
+    background-color: #ffffff;
+    text-align: center;
+    height: 500px;
+    width: 400px;
+    /* margin: 10px 0;   */
+}
+form>h2{
+    font-family: system-ui;
+    margin-right: 290px;
+}
+form>p{
+    font-family: system-ui;
+    margin-right: 100px;
+}
+form input{
+    padding: 7px;
+    background-color:hsl(0, 0%, 90%);
+    border-style: none;
+    border-radius: 5px;
+}
+.email input{
+    width: 359px;
+    background-color:hsl(0, 0%, 90%);
+    border-style: none;
+}
+.checkbox{
+    margin-right: 105px;
+}
+span{
+    color: rgb(12, 112, 226);
+    margin-left: 5px;
+}
+button{
+    padding: 7px;
+    width: 110px;
+    margin-right: 260px;
+    background-color:blue;
+    border-style: hidden;
+    color:white;
+    font-size: bold;
+    border-radius: 5px;
+
+
+}
+footer{
+    color:#ffffff;
+    text-align: center;
+}
